@@ -1,1 +1,1 @@
-console.log("Que pasa locoooooooooooooooooooooooooo")
+console.log("Hola mi hermano qué pasa primo")
